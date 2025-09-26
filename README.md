@@ -7,9 +7,11 @@ A minimal full-stack application for managing users, products, and orders. Built
 ## **Project Structure**
 
 - **Backend**: NestJS + Prisma + PostgreSQL + Redis  
+  Github repo - https://github.com/SriShan01/backend
   `http://localhost:4000` (default local port)
 
 - **Frontend**: Next.js + TailwindCSS  
+  Github repo - https://github.com/SriShan01/frontend
   `http://localhost:3000` (default local port)
 
 ---
