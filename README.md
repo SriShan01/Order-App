@@ -10,9 +10,13 @@ A minimal full-stack application for managing users, products, and orders. Built
   Github repo - https://github.com/SriShan01/backend
   `http://localhost:4000` (default local port)
 
+  https://backend-production-4551.up.railway.app/orders
+
 - **Frontend**: Next.js + TailwindCSS  
   Github repo - https://github.com/SriShan01/frontend
   `http://localhost:3000` (default local port)
+  
+    https://frontend-vert-ten-49.vercel.app/orders
 
 ---
 
